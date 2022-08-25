@@ -1,8 +1,8 @@
 # 青岛互联网公司名单
 
-**青岛**** BAT ****，群友戏称当地招聘岗位最多的三家。**
+### **青岛BAT，群友戏称当地招聘岗位最多的三家。**
 
-**海尔**
+#### **海尔**
 
 整体介绍 [互联网大厂人想回青岛，只有这两个公司能接住你的总包](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713220&idx=1&sn=58d5cc04ab72ae77e57774d97cc3e0aa&chksm=b12b01da865c88ccf6a518a761862e87632d7314dd41d7161960330648b0ee763e2d0c8df6dc&scene=21#wechat_redirect)[......](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713220&idx=1&sn=58d5cc04ab72ae77e57774d97cc3e0aa&chksm=b12b01da865c88ccf6a518a761862e87632d7314dd41d7161960330648b0ee763e2d0c8df6dc&scene=21#wechat_redirect)
 
@@ -18,7 +18,7 @@
 
 上班时间调整 [岛城夜报最后一次谈每日优鲜，还有海尔的一个好消息……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713897&idx=1&sn=66184d775bb8ab932228c247aeb1de9b&chksm=b12b7e77865cf761edaf7c9d5c7ac1ff8b7223f7b43909a59e2af8d0396aaa98327839ee8914&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713897&idx=1&sn=66184d775bb8ab932228c247aeb1de9b&chksm=b12b7e77865cf761edaf7c9d5c7ac1ff8b7223f7b43909a59e2af8d0396aaa98327839ee8914&scene=21#wechat_redirect)
 
-海信：
+#### 海信：
 
 整体介绍 [互联网大厂人想回青岛，只有这两个公司能接住你的总包](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713220&idx=1&sn=58d5cc04ab72ae77e57774d97cc3e0aa&chksm=b12b01da865c88ccf6a518a761862e87632d7314dd41d7161960330648b0ee763e2d0c8df6dc&scene=21#wechat_redirect)[......](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713220&idx=1&sn=58d5cc04ab72ae77e57774d97cc3e0aa&chksm=b12b01da865c88ccf6a518a761862e87632d7314dd41d7161960330648b0ee763e2d0c8df6dc&scene=21#wechat_redirect)
 
@@ -30,18 +30,19 @@
 
 缺一篇  校招信动力
 
-歌尔：
+#### 歌尔：
 
 整体介绍  [字节花了90亿，跟青岛的这家公司学做"元宇宙"](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713698&idx=1&sn=2b7d17a7ae2fee4040029d71df301a84&chksm=b12b7fbc865cf6aa766d75d21dcb1f02c768693968eb12d7f14b358e5ab3601e625517797cfe&scene=21#wechat_redirect)[90](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713698&idx=1&sn=2b7d17a7ae2fee4040029d71df301a84&chksm=b12b7fbc865cf6aa766d75d21dcb1f02c768693968eb12d7f14b358e5ab3601e625517797cfe&scene=21#wechat_redirect)
 
 回流政策，在最后 [出海从此是路人……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459714054&idx=1&sn=960639545c296189cc4df30e14742998&chksm=b12b7d18865cf40e8d519b889b744c62764b47816e7a5a3ed44d9e642d61118c89fd220bd622&scene=21#wechat_redirect)
 
 股票 [岛城夜报|停贷、招聘暂停、新群……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713824&idx=1&sn=59063448e904a394221215ae41208d4a&chksm=b12b7e3e865cf7281a2f8965c8353d4ba34590522ee225ce988a43f952c35b4689c4b541162a&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713824&idx=1&sn=59063448e904a394221215ae41208d4a&chksm=b12b7e3e865cf7281a2f8965c8353d4ba34590522ee225ce988a43f952c35b4689c4b541162a&scene=21#wechat_redirect)
+
 缺一篇  歌尔之翼格尔精英
 
-**重量级**
+### **重量级**
 
-光大银行青岛研发部：
+#### 光大银行青岛研发部：
 
 [总体介绍 钱多事少好单位----光大银行青岛科技部](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713384&idx=1&sn=70705113f291bb23f5ecf50d5cfd45f9&chksm=b12b0076865c896070580ba6d99015901d2d0b90a261079634cfa20ca39c3a01a4dc68a946ac&scene=21#wechat_redirect)
 
@@ -53,7 +54,7 @@
 
 还欠你们一篇，没忘……
 
-字节青岛分公司Pico :
+#### 字节青岛分公司Pico :
 
 介绍 [青岛也要有字节的研发子公司了？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713377&idx=1&sn=78ac52c8d218942184dd0dc3a21b7df0&chksm=b12b007f865c8969a1ae69cf89d59d90224b4ed37a3f58d780999633a237cba6c1313d19cb16&scene=21#wechat_redirect)
 
@@ -61,53 +62,53 @@
 
 招聘 [字节跳动青岛研发中心招聘](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713440&idx=1&sn=ae550f62b4e7284b14ac88ffa52da42e&chksm=b12b00be865c89a8c4fc7af8a64c25226459517150bede69caf9f12451dc5eb85e8533c62e7e&scene=21#wechat_redirect)
 
-鼎信：
+#### 鼎信：
 
 [整体介绍 鼎信通讯怎么样？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713821&idx=1&sn=2f523f3e9663db1bf881e9f81ba21517&chksm=b12b7e03865cf7150c224d29b9647854b12a7d870a378ea7f7384fff02327869427c7fd56efd&scene=21#wechat_redirect)
 
-民航凯亚：
+#### 民航凯亚：
 
 整体介绍 [青岛民航凯亚是央企吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713958&idx=1&sn=de7e5081ccee556e7b83c81971f89f39&chksm=b12b7eb8865cf7aee7b46239d371a80ace147d995009f0ab541122e84a7d708abe88dce6417a&scene=21#wechat_redirect)
 
-**国企**
+###  **国企**
 
-中车四方所：
+#### 中车四方所：
 
 [2021级青岛四方所待遇怎么样？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713340&idx=1&sn=a4463bd07057931c58c0faf438d769ec&chksm=b12b0022865c89348558e28f31dd7d3f41c04f8c4795593933ff09923383e7ad4c50b630bf7c&scene=21#wechat_redirect)
 
 [关于中车四方所2022年的降薪政策怎么看？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713766&idx=1&sn=643b0c7d2f035a0f366c3044b9266a8a&chksm=b12b7ff8865cf6ee04267789dcbee232eec3afa58c02bda808b672e19b6b6fc20ca291a3c839&scene=21#wechat_redirect)
 
-国实科技：
+#### 国实科技：
 
 目前最准确最权威的介绍 [国实科技招聘研发、测试、平面……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713929&idx=1&sn=58f4299869e364e019f6223abbb4e70d&chksm=b12b7e97865cf7810813d1669c10085c3df8875dc37a8098b811e73e488de20b73adeb29bb23&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713929&idx=1&sn=58f4299869e364e019f6223abbb4e70d&chksm=b12b7e97865cf7810813d1669c10085c3df8875dc37a8098b811e73e488de20b73adeb29bb23&scene=21#wechat_redirect)
 
-青岛地铁科技：
+#### 青岛地铁科技：
 
 整体介绍 [国企介绍|青岛地铁科技](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713387&idx=1&sn=80a667999a7d569b0b2faf1e015efa31&chksm=b12b0075865c89639cf12b3d91470313b46d13d19056533c52120cf3fa50abf445fc62b182e2&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713387&idx=1&sn=80a667999a7d569b0b2faf1e015efa31&chksm=b12b0075865c89639cf12b3d91470313b46d13d19056533c52120cf3fa50abf445fc62b182e2&scene=21#wechat_redirect)
 
 招聘  [国企招聘|地铁科技](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713462&idx=1&sn=046adcb3e719535bab4a1792022eb2d6&chksm=b12b00a8865c89be68be9493c86ca486a6af6e2168e32ac5e4f6ad2df3be9122a0b96e9c7986&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713462&idx=1&sn=046adcb3e719535bab4a1792022eb2d6&chksm=b12b00a8865c89be68be9493c86ca486a6af6e2168e32ac5e4f6ad2df3be9122a0b96e9c7986&scene=21#wechat_redirect)
 
-城运：
+#### 城运：
 
 [国企！青岛城运控股集团社招! 算法、大数据，java工程师……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713703&idx=1&sn=325f1a975ed32bd814e19d3b5e9052da&chksm=b12b7fb9865cf6af966b9df0499472df1780efad6d6118bfe5b90bac48d6be4a14a8126e2792&scene=21#wechat_redirect)
 
-**外企**
+### **外企**
 
-诺基亚（朗讯）：
+#### 诺基亚（朗讯）：
 
 [20天带薪年假，90天陪产假，各种福利，青岛这家研发外企快来了解一下！](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713592&idx=1&sn=16b2a238f80f121bd1bf81e0dfa2b6d2&chksm=b12b7f26865cf6308af2740d5e032358605298aedb0f787547d5bd95bf1e758e8a0d60cdc4d7&scene=21#wechat_redirect)
 
-海克斯康
+#### 海克斯康
 
 [青岛海克斯康，你想知道的都在这里……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713695&idx=1&sn=97273d8c199b71e1f5302bb202b1b2db&chksm=b12b7f81865cf6979e0e3b1b3cb6e568ebdc920ea034cd816d3b2c7260d021cac019424b9b5e&scene=21#wechat_redirect)
 
-**互联网**
+### **互联网**
 
-科大讯飞：
+#### 科大讯飞：
 
 [黄岛也有互联网大厂？有！](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713567&idx=1&sn=47ce4d939ffc33bc354b3c18445de727&chksm=b12b7f01865cf617932e9a7016d26c175b224f0a0de1b1caf1cc5662558989b1614dbd083b2f&scene=21#wechat_redirect)
 
-什么值得买
+#### 什么值得买
 
 [青岛诞生的互联网公司——什么值得买](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459714074&idx=1&sn=5cdf161431080c8936dfe3df0e2825b5&chksm=b12b7d04865cf4123bc4bfa263acce697eb569090016351445eb22509814315cd8e3104b0e68&scene=21#wechat_redirect)
 
@@ -115,56 +116,56 @@
 
 [荒漠中的绿洲——青岛的互联网公司指北](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713282&idx=1&sn=311dc0a8c322c27c59bdc082bac32658&chksm=b12b001c865c890af2b232960c5b3377aa0d49693c6c742198df8c707e15efa9a09595ed5754&scene=21#wechat_redirect)
 
-西门子
+#### 西门子
 
 看最后一段，西门子招聘 [说几个事，心情不好的别看第一个了……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713770&idx=1&sn=2d1c4237efbe3d5c4d6ed43d726e0e67&chksm=b12b7ff4865cf6e22d0f71bd6aef42eb353ab8c39a598b41a8c3e50a936088da60e580afd9e5&scene=21#wechat_redirect)
 
-易来智能
+#### 易来智能
 
 [荒漠中的绿洲——青岛的互联网公司指北](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713282&idx=1&sn=311dc0a8c322c27c59bdc082bac32658&chksm=b12b001c865c890af2b232960c5b3377aa0d49693c6c742198df8c707e15efa9a09595ed5754&scene=21#wechat_redirect)
 
-it之家
+#### it之家
 
 [荒漠中的绿洲——青岛的互联网公司指北](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713282&idx=1&sn=311dc0a8c322c27c59bdc082bac32658&chksm=b12b001c865c890af2b232960c5b3377aa0d49693c6c742198df8c707e15efa9a09595ed5754&scene=21#wechat_redirect)
 
-禅道
+#### 禅道
 
 [荒漠中的绿洲——青岛的互联网公司指北](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713282&idx=1&sn=311dc0a8c322c27c59bdc082bac32658&chksm=b12b001c865c890af2b232960c5b3377aa0d49693c6c742198df8c707e15efa9a09595ed5754&scene=21#wechat_redirect)
 
-**外包**** & ****解决方案**
+### **外包&解决方案**
 
-云天励飞：
-
-[青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
-
-端点：
+#### 云天励飞：
 
 [青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
 
-赛维:
+#### 端点：
 
 [青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
 
-海博科技：
+#### 赛维:
+
 [青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
 
-地铁大数据：
+#### 海博科技：
+[青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
+
+#### 地铁大数据：
 
 [青岛IT行业的四分之三壁江山--解决方案提供商（一）](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713329&idx=1&sn=44270771cf68ccd2d714380ebe8e5d4b&chksm=b12b002f865c893916404d9d4473986d7c6ab16692aea7b90e55f8258c08275760aceaf0d244&scene=21#wechat_redirect)
 
 外包系列欠两篇，主要是因为群友大多数没有外包公司的，很多信息已经不全了，需要大家多多提供。
 
-**新产业**
+### **新产业**
 
-芯恩
+#### 芯恩
 
 [明日之星——芯恩（青岛）公司](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713422&idx=1&sn=188f4676d35f9c6c2d8e576ee300243b&chksm=b12b0090865c8986b27674abc4f9bc82bd0a812f11dc18b2ed5fa5f9ea32ceb1bf8bfc32ed4c&scene=21#wechat_redirect)
 
-华人运通：
+#### 华人运通：
 
 [青岛的造车新势力-华人运通(高合)汽车](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713528&idx=1&sn=0072b711003d2798b9c0be809e50dae4&chksm=b12b00e6865c89f0d4f900818482eaaf693e09f3d98c7e51f621518ec15804b15286a16d453b&scene=21#wechat_redirect)
 
-骗子：
+#### 骗子：
 
 [每日优鲜总部落户青岛，终于有互联网公司了？](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713375&idx=1&sn=0225143beb3a9b68e5bb2689805e167e&chksm=b12b0041865c895762495e43b6c029d8c45bf6e6f55391cba50bb8f0d83ce5fca7854bb3a929&scene=21#wechat_redirect)
 
@@ -172,17 +173,18 @@ it之家
 
 [岛城夜报|最后一次谈每日优鲜，还有海尔的一个好消息……
 ](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713897&idx=1&sn=66184d775bb8ab932228c247aeb1de9b&chksm=b12b7e77865cf761edaf7c9d5c7ac1ff8b7223f7b43909a59e2af8d0396aaa98327839ee8914&scene=21#wechat_redirect)|
-**济南**
 
-浪潮：
+### **济南**
+
+#### 浪潮：
 
 [因"员工加班晕倒"浪潮集团上热搜，公司回应……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713942&idx=2&sn=ed1b3fd34d2e5370a1f4798c62344aad&chksm=b12b7e88865cf79e8688796ae149e426229d47a78bc17efdd3bee21d244eb97b53a7905f810b&scene=21#wechat_redirect)
 
-华为：
+#### 华为：
 
 [华为研发中心落子济南，青岛应该着急了……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713820&idx=1&sn=5b62332b195919100096517e221e948a&chksm=b12b7e02865cf71498c996fc33b5c1c4c1fa6cf9e468222e75084b716e23922b0593ace0cac9&scene=21#wechat_redirect)
 
-**收入相关**
+####  **收入相关**
 
 [在青岛，月薪2w是什么体验](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713478&idx=1&sn=c6bcc095a3a7d2e4fd1be9f5f3318a79&chksm=b12b00d8865c89ce719c2c1878db84bea1ac1384e2d278d870436bc98b79fd10fa93021f5d2c&scene=21#wechat_redirect)
 
@@ -201,7 +203,7 @@ offer [青岛35万 vs北京56万，选哪个offer？](http://mp.weixin.qq.com/s?
 
 傻逼公司，参考黑名单 [岛城公司大赏](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713471&idx=1&sn=09730742b9026ba7c05a80742b9fd2d3&chksm=b12b00a1865c89b720d3322a32b374797cd5eaa2eff41e60bb90dfd18ee3d86c70d11065f1d3&scene=21#wechat_redirect)[xx](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713471&idx=1&sn=09730742b9026ba7c05a80742b9fd2d3&chksm=b12b00a1865c89b720d3322a32b374797cd5eaa2eff41e60bb90dfd18ee3d86c70d11065f1d3&scene=21#wechat_redirect)
 
-**杂谈**
+### **杂谈**
 
 [回青岛要趁早](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713465&idx=1&sn=455d23d41e9e3ca4498c88916ec3ec6f&chksm=b12b00a7865c89b1163540ffa996d2c9c094f898beea4acaf4a9322f9ba6237272fab84cddf0&scene=21#wechat_redirect)
 
@@ -212,4 +214,8 @@ offer [青岛35万 vs北京56万，选哪个offer？](http://mp.weixin.qq.com/s?
 [华为一哆嗦，互联网就尿了……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459714089&idx=1&sn=399aa6a6bd2b190437016edfd7f35f33&chksm=b12b7d37865cf421a88e107fffbb087a79e5ef8363c19bbfbef9fdd1b4d411e9ef57f8012900&scene=21#wechat_redirect)
 
 [山东为什么留不下计算机毕业生……](http://mp.weixin.qq.com/s?__biz=MjM5MDUxNzg3Mw==&mid=2459713755&idx=1&sn=194b29fc88cda0e5b2c1cd7d4faaf1fa&chksm=b12b7fc5865cf6d35065a41d761ee67ed0720f919db8b45decb899e9f1b7b8448b57af4998dc&scene=21#wechat_redirect)
+
+未完待续……欢迎关注公众号**岛城网事**，也欢迎大家投稿……
+
+
 
